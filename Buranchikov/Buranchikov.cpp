@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+<<<<<<< HEAD
     cout << "Chepuha vonuchaya";
 	cout << "shutka";
 	int arr[9];
@@ -12,5 +13,8 @@ int main()
 		cout << arr[i] << " || " << endl;
 
 	}
+=======
+    std::cout << "Chepuha vonuchaya";
+>>>>>>> parent of d949491 (Version 2.1)
 }
 
