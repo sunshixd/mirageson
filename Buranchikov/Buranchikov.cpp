@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 <<<<<<< HEAD
-    cout << "Chepuha vonuchaya";
+    cout << "VSE MOLODCI";
 	cout << "shutka";
 	int arr[9];
 	for (int i = 0; i < 9; i++)
